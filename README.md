@@ -31,9 +31,9 @@ I specialize in transforming complex datasets into actionable insights, leveragi
 
 | 🎮 Project | 🎯 Objective | 🛠️ Tools |
 |------------|-------------|----------|
-| **[Airbnb Listings Data Visualization](#)** | Analyzed 48,000+ listings to extract insights for strategic marketing and pricing. | Tableau, Python |
-| **[Credit Card Analysis with Power BI](#)** | Identified spending patterns and potential fraud using interactive dashboards. | Power BI, SQL |
-| **[Real Estate Data Analysis](#)** | Conducted EDA to provide data-backed insights for real estate investments. | Python, Excel |
+| **[Airbnb Listings Data Visualization](https://github.com/gaurav190901/AirBNB)** | Analyzed 48,000+ listings to extract insights for strategic marketing and pricing. | Tableau, Python |
+| **[Credit Card Analysis with Power BI](https://github.com/gaurav190901/Credit-Card-Transaction-Analysis)** | Identified spending patterns and potential fraud using interactive dashboards. | Power BI, SQL |
+| **[Real Estate Data Analysis](https://github.com/gaurav190901/Real-Estate-EDA)** | Conducted EDA to provide data-backed insights for real estate investments. | Python, Excel |
 
 <p align="center">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400"/>
