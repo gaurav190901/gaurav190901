@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED SVG HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gourav%20Gore&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Visualization%20Engineer%20%E2%80%A2%20Automation%20Architect&descAlignY=58&descSize=16&animation=fadeIn&fontFamily=Raleway" />
+<!-- CYBERPUNK HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00fff0,50:ff00ff,100:00fff0&height=220&section=header&text=GOURAV%20GORE&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=DATA%20ENGINEER%20%2F%2F%20PIPELINE%20ARCHITECT%20%2F%2F%20ETL%20SPECIALIST&descAlignY=62&descSize=14&animation=twinkling&fontFamily=Courier+New"/>
 
 </div>
 
@@ -10,241 +10,211 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions+%F0%9F%93%8A;48%2C000+rows+analyzed+and+counting...;Building+dashboards+that+actually+get+used;Signal+in+the+noise+%E2%80%94+that%27s+my+thing+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00FFF0&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+DATA+PIPELINE...+%5BOK%5D;%3E+EXTRACTING+raw+chaos+from+source+systems...;%3E+TRANSFORMING+noise+into+signal...+%5BOK%5D;%3E+LOADING+insights+to+destination...+%5BOK%5D;%3E+ETL+COMPLETE.+Pipelines+never+sleep.+%F0%9F%9F%A2" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- PROFILE BADGES -->
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=gaurav190901&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/gaurav190901)
-[![GitHub followers](https://img.shields.io/github/followers/gaurav190901?style=for-the-badge&color=blueviolet&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/gaurav190901)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/gourav-gore)
-
-</div>
-
-<br/>
-
----
-
-<!-- ABOUT ME -->
-
-<img align="right" width="38%" src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" style="border-radius:16px"/>
-
-### `~/about_me.sh`
-
-```bash
-$ whoami
-  Gourav Gore — Data Analyst & Viz Engineer
-
-$ cat mission.txt
-  Transforming complex datasets into
-  stories that move decisions.
-
-$ ls skills/
-  analytics/  visualization/
-  automation/ storytelling/
-
-$ echo $STATUS
-  Always learning. Always building.
-```
-
-<br clear="right"/>
-
----
-
-<!-- STATS TRINITY -->
-
-<div align="center">
-<h2>📊 GitHub Analytics</h2>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurav190901&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav190901&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gaurav190901&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=7c3aed&stroke=1f1f3a)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=gaurav190901&style=for-the-badge&color=00fff0&labelColor=0a0a0f&label=SYS.VISITORS)
+[![GitHub](https://img.shields.io/github/followers/gaurav190901?style=for-the-badge&color=ff00ff&labelColor=0a0a0f&label=FOLLOWERS)](https://github.com/gaurav190901)
+[![LinkedIn](https://img.shields.io/badge/NETWORK-LINK-00fff0?style=for-the-badge&logo=linkedin&logoColor=00fff0&labelColor=0a0a0f)](https://www.linkedin.com/in/gourav-gore)
 
 </div>
 
 ---
 
-<!-- SKILL BARS SECTION -->
-<h2 align="center">⚡ Core Competencies</h2>
-
-<div align="center">
-
-| Skill | Proficiency |
-|:------|:-----------|
-| **📊 Data Visualization** — Tableau, Power BI | `████████████████████` 95% |
-| **🐍 Python** — Pandas, NumPy, Matplotlib | `████████████████████` 90% |
-| **🗄️ SQL** — Queries, Aggregations, Joins | `████████████████████` 90% |
-| **📗 Excel** — Pivot Tables, Power Query | `████████████████████` 88% |
-| **⚙️ Process Automation** — Scripting | `████████████████████` 80% |
-| **🧹 EDA & Data Wrangling** | `████████████████████` 92% |
-
-</div>
-
----
-
-<!-- TECH STACK -->
-<h2 align="center">🛠️ Tech Arsenal</h2>
-
-<div align="center">
-
-**Languages & Querying**
-
-![Python](https://img.shields.io/badge/Python-0d0d1a?style=for-the-badge&logo=python&logoColor=a78bfa)
-![SQL](https://img.shields.io/badge/SQL-0d0d1a?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
-
-**Visualization**
-
-![Tableau](https://img.shields.io/badge/Tableau-0d0d1a?style=for-the-badge&logo=tableau&logoColor=a78bfa)
-![Power BI](https://img.shields.io/badge/Power_BI-0d0d1a?style=for-the-badge&logo=powerbi&logoColor=a78bfa)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0d1a?style=for-the-badge&logo=python&logoColor=a78bfa)
-![Seaborn](https://img.shields.io/badge/Seaborn-0d0d1a?style=for-the-badge&logo=python&logoColor=a78bfa)
-
-**Data & Automation**
-
-![Pandas](https://img.shields.io/badge/Pandas-0d0d1a?style=for-the-badge&logo=pandas&logoColor=a78bfa)
-![NumPy](https://img.shields.io/badge/NumPy-0d0d1a?style=for-the-badge&logo=numpy&logoColor=a78bfa)
-![Excel](https://img.shields.io/badge/Excel-0d0d1a?style=for-the-badge&logo=microsoftexcel&logoColor=a78bfa)
-![Git](https://img.shields.io/badge/Git-0d0d1a?style=for-the-badge&logo=git&logoColor=a78bfa)
-
-</div>
-
----
-
-<!-- FEATURED PROJECTS -->
-<h2 align="center">🌟 Featured Work</h2>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 [Airbnb Listings Analysis](https://github.com/gaurav190901/AirBNB)
-
-> *Tableau · Python*
-
-Analyzed **48,000+ listings** across markets to surface strategic pricing opportunities and marketing insights. Built interactive geo-dashboards revealing seasonal demand patterns.
-
-`#Tableau` `#EDA` `#DataViz` `#BusinessIntelligence`
-
-</td>
-<td width="50%" valign="top">
-
-### 💳 [Credit Card Analysis](https://github.com/gaurav190901/Credit-Card-Transaction-Analysis)
-
-> *Power BI · SQL*
-
-Built interactive dashboards identifying spending behavior, segmenting customers by transaction patterns, and flagging anomalies for potential fraud detection.
-
-`#PowerBI` `#SQL` `#FraudDetection` `#Dashboard`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏘️ [Real Estate EDA](https://github.com/gaurav190901/Real-Estate-EDA)
-
-> *Python · Excel*
-
-Deep-dive exploratory analysis on property datasets — uncovering price drivers, location correlations, and investment signals backed by statistical evidence.
-
-`#Python` `#EDA` `#RealEstate` `#StatAnalysis`
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Always Building...
-
-> *Next Project Loading*
-
-Constantly working on new analyses, dashboards, and automation scripts. Watch this space — or better yet, follow along on GitHub.
-
-`#ComingSoon` `#DataScience` `#OpenToCollaborate`
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gaurav190901&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c084fc&area=true&hide_border=true)](https://github.com/gaurav190901)
-
-</div>
-
----
-
-<!-- PHILOSOPHY -->
-<h2 align="center">💭 Philosophy</h2>
-
-<div align="center">
+## `> SYSTEM_IDENTITY.sh`
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║    "Data is the new oil — but only if you know how to refine it." ║
-║                                                                   ║
-║         analyze  →  visualize  →  decide  →  repeat              ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║  ROLE   : Data Engineer — Pipeline Architect — ETL Specialist        ║
+║  FOCUS  : Building reliable pipelines that never miss a beat         ║
+║  STATUS : [ ONLINE ] — Always shipping, always optimizing            ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+> I build the **infrastructure** that turns raw, messy data into something your analysts actually trust.
+> Pipelines at scale. ETL that doesn't break at 3am. Data that arrives clean, on time, every time.
 
 ---
 
-<!-- CURRENTLY LEARNING -->
-<h2 align="center">🌱 Currently Leveling Up</h2>
+## `> PIPELINE_ARCHITECTURE.py`
 
 ```python
-roadmap = {
-    "mastering" : ["Advanced SQL Optimization", "DAX for Power BI"],
-    "exploring" : ["Machine Learning for Analytics", "dbt for Data Pipelines"],
-    "building"  : ["Portfolio of end-to-end analytics projects"],
-    "belief"    : "The best analyst is always a student first."
-}
+class GouravGore(DataEngineer):
+
+    def __init__(self):
+        self.role       = "Data Engineer"
+        self.focus      = ["ETL Pipelines", "Data Warehousing", "Process Automation"]
+        self.philosophy = "Reliable pipelines are invisible — they just work."
+        self.status     = "[ PIPELINE RUNNING ✅ ]"
+
+    def extract(self, source: RawData) -> DataFrame:
+        """Pull from any source. No data left behind."""
+        return self.connect(source).ingest_all()
+
+    def transform(self, df: DataFrame) -> CleanData:
+        """Noise → Signal. Always."""
+        return df.clean().validate().enrich()
+
+    def load(self, data: CleanData, destination: Warehouse):
+        """Deliver. On time. Every time."""
+        destination.write(data, mode="append", on_failure="alert_me")
+
+    def run(self):
+        while True:
+            raw   = self.extract(ALL_SOURCES)
+            clean = self.transform(raw)
+            self.load(clean, DATA_WAREHOUSE)
+            # pipelines never sleep 🟢
 ```
 
+---
+
+## `> TECH_STACK.json`
+
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+
+### ⚡ Pipeline & ETL
+
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=00fff0)
+![Apache Airflow](https://img.shields.io/badge/Airflow-0a0a0f?style=for-the-badge&logo=apacheairflow&logoColor=00fff0)
+![Apache Spark](https://img.shields.io/badge/Spark-0a0a0f?style=for-the-badge&logo=apachespark&logoColor=ff00ff)
+![dbt](https://img.shields.io/badge/dbt-0a0a0f?style=for-the-badge&logo=dbt&logoColor=ff00ff)
+
+### 🗄️ Storage & Warehousing
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=00fff0)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=for-the-badge&logo=mysql&logoColor=00fff0)
+![Snowflake](https://img.shields.io/badge/Snowflake-0a0a0f?style=for-the-badge&logo=snowflake&logoColor=ff00ff)
+![BigQuery](https://img.shields.io/badge/BigQuery-0a0a0f?style=for-the-badge&logo=googlebigquery&logoColor=ff00ff)
+
+### 📊 Visualization & Analysis
+
+![Tableau](https://img.shields.io/badge/Tableau-0a0a0f?style=for-the-badge&logo=tableau&logoColor=00fff0)
+![Power BI](https://img.shields.io/badge/PowerBI-0a0a0f?style=for-the-badge&logo=powerbi&logoColor=ff00ff)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0f?style=for-the-badge&logo=pandas&logoColor=00fff0)
+
+### 🛠️ DevOps & Workflow
+
+![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=ff00ff)
+![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=00fff0)
+![Linux](https://img.shields.io/badge/Linux-0a0a0f?style=for-the-badge&logo=linux&logoColor=ff00ff)
+
 </div>
 
 ---
 
-<!-- CONNECT -->
-<h2 align="center">🤝 Let's Build Something Together</h2>
+## `> PROJECTS.db --query="SELECT * FROM featured ORDER BY impact DESC"`
 
 <div align="center">
 
-*Open to collaborations, freelance projects, data challenges, and good conversations about analytics.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav_Gore-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a)](https://www.linkedin.com/in/gourav-gore)
-[![Gmail](https://img.shields.io/badge/Email-gaurav.gore19@gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a)](mailto:gaurav.gore19@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-gaurav190901-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a)](https://github.com/gaurav190901)
-
-<br/>
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+| `STATUS` | `PROJECT` | `PIPELINE_TYPE` | `STACK` | `SCALE` |
+|:---:|:---|:---|:---:|:---:|
+| 🟢 | **[Airbnb Data Pipeline](https://github.com/gaurav190901/AirBNB)** | Batch ETL → Viz Layer | `Python` `Tableau` | 48K+ rows |
+| 🟢 | **[Credit Card Analytics Pipeline](https://github.com/gaurav190901/Credit-Card-Transaction-Analysis)** | Transaction Ingestion → Dashboard | `SQL` `Power BI` | Multi-dim |
+| 🟢 | **[Real Estate Data Warehouse](https://github.com/gaurav190901/Real-Estate-EDA)** | EDA → Insight Layer | `Python` `Excel` | Multi-source |
+| 🔵 | **Next Pipeline...** | Always building | `???` | ∞ |
 
 </div>
 
 ---
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+## `> GITHUB_METRICS --live`
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=gaurav190901&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=00fff0&icon_color=ff00ff&text_color=ccfffa"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav190901&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=00fff0&text_color=ccfffa"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gaurav190901&theme=neon-dark&hide_border=true&background=0a0a0f&ring=00fff0&fire=ff00ff&currStreakLabel=00fff0&sideLabels=ff00ff&dates=667a7a&stroke=1a2a2a)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gaurav190901&bg_color=0a0a0f&color=00fff0&line=ff00ff&point=00fff0&area_color=001a1a&area=true&hide_border=true)](https://github.com/gaurav190901)
+
+</div>
+
+---
+
+## `> PIPELINE_UPTIME.monitor`
+
+```
+SYSTEM HEALTH DASHBOARD
+══════════════════════════════════════════════════════════
+
+ ETL Design & Architecture      ████████████████████  96%
+ SQL & Query Optimization        ███████████████████░  92%
+ Python (Pandas / NumPy)         ███████████████████░  90%
+ Data Modelling & Warehousing    ██████████████████░░  88%
+ Tableau / Power BI              ████████████████████  95%
+ Workflow Automation             █████████████████░░░  84%
+ Data Quality & Validation       ██████████████████░░  88%
+
+ OVERALL PIPELINE HEALTH: ██████████████████████ 99.9% UPTIME
+══════════════════════════════════════════════════════════
+```
+
+---
+
+## `> LEARNING_QUEUE.txt`
+
+```bash
+$ cat roadmap.txt
+
+  [DOWNLOADING]  Advanced dbt + Snowflake patterns ............. 78%
+  [DOWNLOADING]  Apache Spark optimization ...................... 55%
+  [QUEUED]       Kafka & real-time streaming pipelines
+  [QUEUED]       Cloud-native ETL (AWS Glue / GCP Dataflow)
+  [INSTALLED]    Python · SQL · Tableau · Power BI ............. ✅
+
+$ echo "The best pipeline is one that runs while you sleep."
+> The best pipeline is one that runs while you sleep.
+```
+
+---
+
+## `> CONNECT.sh --handshake`
+
+<div align="center">
+
+```
+ESTABLISHING SECURE CONNECTION...
+████████████████████████████████ 100%
+CONNECTION ESTABLISHED ✅
+```
+
+*Open to Data Engineering roles, pipeline collaborations, and ETL war stories.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Gourav_Gore-00fff0?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=00fff0)](https://www.linkedin.com/in/gourav-gore)
+[![Email](https://img.shields.io/badge/SIGNAL-gaurav.gore19@gmail.com-ff00ff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=ff00ff)](mailto:gaurav.gore19@gmail.com)
+[![GitHub](https://img.shields.io/badge/SOURCE-gaurav190901-00fff0?style=for-the-badge&logo=github&logoColor=black&labelColor=00fff0)](https://github.com/gaurav190901)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║   "Bad data in, bad decisions out.                        ║
+║    I make sure that never happens."           — G. Gore   ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00ff,50:00fff0,100:ff00ff&height=120&section=footer&animation=twinkling"/>
