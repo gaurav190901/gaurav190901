@@ -125,9 +125,9 @@ class GouravGore(DataEngineer):
 
 ## > GITHUB_METRICS --live
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurav190901&show_icons=true&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav190901&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav190901&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav190901)
 
 
 </div>
