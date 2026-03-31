@@ -210,7 +210,7 @@ CONNECTION ESTABLISHED ✅
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║   "Bad data in, bad decisions out.                        ║
-║    I make sure that never happens."           — G. Gore   ║
+║           I make sure that never happens."                ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
