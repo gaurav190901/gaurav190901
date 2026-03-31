@@ -127,7 +127,7 @@ class GouravGore(DataEngineer):
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=gaurav190901&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=00fff0&icon_color=ff00ff&text_color=ccfffa"/>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav190901&theme=github_dark)
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav190901&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=00fff0&text_color=ccfffa"/>
 
