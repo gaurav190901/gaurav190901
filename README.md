@@ -118,13 +118,14 @@ class GouravGore(DataEngineer):
 </div>
 
 ---
-
+<div>
+<div align="center">
 ## > GITHUB_METRICS --live
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav190901&theme=github_dark)
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurav190901&theme=github_dark)
-
+</div>
 
 
 </div>
