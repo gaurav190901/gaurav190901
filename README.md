@@ -98,11 +98,7 @@ class GouravGore(DataEngineer):
 ![Power BI](https://img.shields.io/badge/PowerBI-0a0a0f?style=for-the-badge&logo=powerbi&logoColor=ff00ff)
 ![Pandas](https://img.shields.io/badge/Pandas-0a0a0f?style=for-the-badge&logo=pandas&logoColor=00fff0)
 
-### 🛠️ DevOps & Workflow
 
-![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=ff00ff)
-![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=00fff0)
-![Linux](https://img.shields.io/badge/Linux-0a0a0f?style=for-the-badge&logo=linux&logoColor=ff00ff)
 
 </div>
 
