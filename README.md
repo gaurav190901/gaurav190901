@@ -142,7 +142,7 @@ class GouravGore(DataEngineer):
 
 <div align="center">
 
-![snake gif](https://github.com/gaurav190901/gaurav190901/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/gaurav190901/gaurav190901/output/github-snake-dark.svg)
 
 </div>
 
