@@ -142,7 +142,7 @@ class GouravGore(DataEngineer):
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gaurav190901&bg_color=0a0a0f&color=00fff0&line=ff00ff&point=00fff0&area_color=001a1a&area=true&hide_border=true)](https://github.com/gaurav190901)
+![snake gif](https://github.com/gaurav190901/gaurav190901/blob/output/github-snake-dark.svg)
 
 </div>
 
