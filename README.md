@@ -134,6 +134,12 @@ class GouravGore:
 
 </div>
 
+<div align="center">
+
+![pacman gif](https://raw.githubusercontent.com/gaurav190901/gaurav190901/output/github-pacman-dark.svg)
+
+</div>
+
 ---
 
 ## ✦ &nbsp; Skill Depth
