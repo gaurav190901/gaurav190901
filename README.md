@@ -132,7 +132,7 @@ class GouravGore(DataEngineer):
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gaurav190901&theme=neon-dark&hide_border=true&background=0a0a0f&ring=00fff0&fire=ff00ff&currStreakLabel=00fff0&sideLabels=ff00ff&dates=667a7a&stroke=1a2a2a)](https://git.io/streak-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gaurav190901&bg_color=0a0a0f&color=00fff0&line=ff00ff&point=00fff0&area=true&hide_border=true)
 
 </div>
 
