@@ -118,7 +118,7 @@ class GouravGore:
 <br/>
 
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurav190901&theme=nord_dark)&nbsp;&nbsp;![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurav190901&theme=nord_dark)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurav190901&theme=nord_dark)
 
 </div>
 
