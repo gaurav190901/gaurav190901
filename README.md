@@ -136,7 +136,7 @@ class GouravGore:
 
 <div align="center">
 
-![pacman gif](https://raw.githubusercontent.com/gaurav190901/gaurav190901/output/github-pacman-dark.svg)
+![pacman gif](https://raw.githubusercontent.com/gaurav190901/gaurav190901/output/pacman-contribution-graph.svg)
 
 </div>
 
