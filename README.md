@@ -117,6 +117,10 @@ class GouravGore:
 
 <br/>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurav190901&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=A8D8EA&icon_color=6cb6ff&text_color=e6f1ff&include_all_commits=true&count_private=true)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav190901&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=A8D8EA&text_color=e6f1ff)
+
+<br/>
+
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurav190901&theme=nord_dark)&nbsp;&nbsp;![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurav190901&theme=nord_dark)
 
 </div>
