@@ -60,9 +60,13 @@ flowchart LR
 
 ## Featured Projects
 
-<a href="https://github.com/gaurav190901/AirBNB"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav190901&repo=AirBNB&theme=github_dark&hide_border=true" alt="Airbnb Data Pipeline"/></a>
-<a href="https://github.com/gaurav190901/Credit-Card-Transaction-Analysis"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav190901&repo=Credit-Card-Transaction-Analysis&theme=github_dark&hide_border=true" alt="Credit Card Transaction Analysis"/></a>
-<a href="https://github.com/gaurav190901/Real-Estate-EDA"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav190901&repo=Real-Estate-EDA&theme=github_dark&hide_border=true" alt="Real Estate EDA"/></a>
+| Project | Language | Stars | Last updated |
+|:---|:---|:---|:---|
+| [**Airbnb Data Pipeline**](https://github.com/gaurav190901/AirBNB) | ![Language](https://img.shields.io/github/languages/top/gaurav190901/AirBNB?style=flat-square&color=6cb6ff) | ![Stars](https://img.shields.io/github/stars/gaurav190901/AirBNB?style=flat-square&color=6cb6ff) | ![Last commit](https://img.shields.io/github/last-commit/gaurav190901/AirBNB?style=flat-square&color=6cb6ff&label=) |
+| [**Credit Card Transaction Analysis**](https://github.com/gaurav190901/Credit-Card-Transaction-Analysis) | ![Language](https://img.shields.io/github/languages/top/gaurav190901/Credit-Card-Transaction-Analysis?style=flat-square&color=6cb6ff) | ![Stars](https://img.shields.io/github/stars/gaurav190901/Credit-Card-Transaction-Analysis?style=flat-square&color=6cb6ff) | ![Last commit](https://img.shields.io/github/last-commit/gaurav190901/Credit-Card-Transaction-Analysis?style=flat-square&color=6cb6ff&label=) |
+| [**Real Estate EDA**](https://github.com/gaurav190901/Real-Estate-EDA) | ![Language](https://img.shields.io/github/languages/top/gaurav190901/Real-Estate-EDA?style=flat-square&color=6cb6ff) | ![Stars](https://img.shields.io/github/stars/gaurav190901/Real-Estate-EDA?style=flat-square&color=6cb6ff) | ![Last commit](https://img.shields.io/github/last-commit/gaurav190901/Real-Estate-EDA?style=flat-square&color=6cb6ff&label=) |
+
+*Click a project below for details.*
 
 <details>
 <summary><b>Airbnb Data Pipeline</b> · Python, SQL, Tableau</summary>
